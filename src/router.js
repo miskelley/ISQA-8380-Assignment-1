@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Skills from './components/Skills.vue'
 import About from './components/About.vue'
+import About_Standard from './components/About_Standard.vue'
 
 Vue.use(Router)
 
