@@ -16,6 +16,11 @@ export default new Router({
       path: '/about/:name',
       name: 'about',
       component: About
+    },
+    {
+      path: '/about',
+      name: 'about_standard',
+      component: About_Standard
     }
   ]
 })
